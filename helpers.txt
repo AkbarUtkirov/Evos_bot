@@ -1,0 +1,2 @@
+Evosga kabi yasalgan bot. 
+Bu bot evosbot kabi ishlaydi buyurtma xizmati mavjud emas.
